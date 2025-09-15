@@ -6,7 +6,7 @@ Je m'appelle Rafael Masson, je suis étudiant à l'IUT Informatique de Bayonne. 
 
 ## 🔧 Les technologies que j'utilise
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,docker,php,laravel,git,github,mysql,py,c,cpp,java,qt,bash,ubuntu,debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,angular,nodejs,express,docker,php,laravel,git,github,gitlab,mysql,py,c,cpp,java,qt,bash,ubuntu,debian)](https://skillicons.dev)
 
 ## 📫 Me contacter
 
